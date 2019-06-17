@@ -1,6 +1,8 @@
 ### Biped-Humanoid robot
 
-Ardunio based Humanoid robot.
-Can be used when you have atleast three servos on each leg !
+Ardunio based Humanoid robot. Here I have created the simplest possible humanoid robot using Arduino and servo motors. Can be used when you have atleast three servos on each leg !
 
-More information on the project : [Blog link](https://yainnoware.blogspot.com/2018/05/humanoid-robot.html)
+I have also modeled the legs in Solidworks software.
+
+![](images/Capture2.png)
+
