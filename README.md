@@ -4,5 +4,5 @@ Ardunio based Humanoid robot. Here I have created the simplest possible humanoid
 
 I have also modeled the legs in Solidworks software.
 
-![](images/Capture2.png)
+![](images/Capture2.JPG)
 
