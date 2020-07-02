@@ -10,5 +10,5 @@ I have modeled the legs in Solidworks software.
 <a href="https://www.youtube.com/watch?v=5w3RGbZgTs0">Walking Video</a>
 
 <p align= "center">
-![](images/2.jpeg)
+<img src="images/2.jpeg">
 </p>
