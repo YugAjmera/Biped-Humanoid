@@ -6,3 +6,9 @@ I have modeled the legs in Solidworks software.
 
 ![](images/Capture2.JPG)
 
+
+<a href="https://www.youtube.com/watch?v=5w3RGbZgTs0">Walking Video</a>
+
+<p align= "center">
+![](images/2.jpeg)
+</p>
